@@ -1,0 +1,73 @@
+/* Base Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: #252525;
+  background-color: #e0ded8;
+  font-family: "Quicksand", sans-serif ;
+  line-height: 1.6;
+}
+
+/* Typography */
+h1, 
+h2, 
+h3 {
+  font-family: "Playfair", serif;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 55px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 26px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 25px;
+  margin: 12px 0;
+}
+
+p {
+  
+  margin-bottom: 16px;
+}
+/* Links & Accents */
+a {
+  color: #f76bb3;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+/* Images */
+
+/* Hero Section */
+
+/* Main Content */
+
+/* About Section */
+
+/* Specials Section */
+
+/* Visit Us Section */
+
+iframe {
+  width: 100%;
+  height: 350px;
+}
+
+/* Footer */
+footer {
+  margin-top: 48px;
+}
