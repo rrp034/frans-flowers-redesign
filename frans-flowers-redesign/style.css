@@ -47,11 +47,39 @@ a {
 }
 
 a:hover{
-  text-decoration: underline;
+  text-decoration: none;
 }
 
+.accent {
+  color: #b14141;
+  font-weight: 600;
+}
 /* Images */
+img {
+max-width: 100%;
+}
+/* common layout elements */
+.header-content,
+.footer-content,
+main{
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
+header,
+footer {
+  text-align: center;
+  padding: 24px 16px;
+}
+
+header {
+  padding-top: 48px;
+}
+
+.tagline {
+  color:#333232;
+  letter-spacing: 1.5px;
+}
 /* Hero Section */
 
 /* Main Content */
