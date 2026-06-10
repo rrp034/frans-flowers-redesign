@@ -120,7 +120,7 @@ section {
   margin: 0 auto;
 }
  
-.specials-offer{
+.special-offer{
   flex: 1 1 250px;
   max-width: 350px;
   background-color: #fff;
@@ -130,12 +130,12 @@ section {
   text-align: center;
 }
 
-.specials-offer p {
+.special-offer p {
   margin-bottom: 0;
   margin-top: 6px;
 }
 
-.specials-offer img {
+.special-offer img {
   height: 180px;
   width: auto;
   border: 1px solid #998d8d;
